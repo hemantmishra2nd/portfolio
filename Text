@@ -1,0 +1,9 @@
+my-portfolio/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── images/
+│       ├── hero-image.jpg  (or your photo)
+│       └── project-1.jpg   (project thumbnails)
+└── README.md
